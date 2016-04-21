@@ -1,6 +1,4 @@
 __author__ = 'Ran'
 print("hello world")
-print("test")
-print(1)
-i = 1
+i = input("enter number")
 print(i)
